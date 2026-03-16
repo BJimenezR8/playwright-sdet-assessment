@@ -34,20 +34,6 @@ The tests were implemented using **Playwright with JavaScript** and follow the *
    - Verify error message appears
    - Verify user remains on login page
 
-## Project Structure
-project-root
-│
-├── pages
-│ └── loginPage.js # Page Object Model for login page
-│
-├── tests
-│ └── sdet-assessment.spec.js # Test cases
-│
-├── playwright.config.js # Playwright configuration
-├── package.json # Project dependencies and scripts
-└── README.md # Project documentation
-
-
 ## Prerequisites
 
 Make sure the following are installed:
